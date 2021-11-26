@@ -1,0 +1,3 @@
+[submodule "plates/CCTag"]
+	path = plates/CCTag
+	url = https://github.com/alicevision/CCTag.git
